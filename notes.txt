@@ -1,0 +1,3 @@
+17.10.2009
+	Created example files. Created file traversal example. Will create a Word and an Access example in the near future.
+
