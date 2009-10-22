@@ -3,3 +3,7 @@
 
 22.10.2009
 	Created word and access example files.
+	
+22.10.2009
+	Added collectionexample.vbs
+	Demonstrates how to iterate a collection using an integer
