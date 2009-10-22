@@ -17,3 +17,6 @@ Dim word
 For Each word In currDoc.Words
 	WScript.Echo word
 Next
+
+currDoc.Close
+wApp.Quit
